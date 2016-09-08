@@ -898,7 +898,7 @@ p {
 
 }
 
-/*---- About ----*/
+/*---- Instalaciones ----*/
 #instalaciones {
 	padding-top: 70px;
     padding-bottom: 75px;
@@ -1362,6 +1362,47 @@ line-height: 0px;
 	font-size: 3em;
 }
 .service-info {
+	padding-left: 60px;
+	padding-top: 1px;
+}
+
+/*---- Services ----*/
+#iso {
+	padding-top: 70px;
+	padding-bottom: 75px;
+}
+.section-title {
+	text-align: center;
+	margin-bottom: 40px;
+}
+.iso-row {
+
+}
+.iso-container {
+
+}
+.iso {
+	margin-bottom: 40px;
+}
+.iso-icon {
+	float: left;
+}
+.back-icon{
+	z-index: -1;
+	color: #F0F0F0;
+	position: absolute;
+	padding-left: 40px;
+	left: 0;
+	top: 0;
+	width: 144px;
+	height: 144px;
+	line-height: 144px;
+	font-size: 144px;
+}
+.ion-3x {
+	font-size: 3em;
+}
+.iso-info {
 	padding-left: 60px;
 	padding-top: 1px;
 }
