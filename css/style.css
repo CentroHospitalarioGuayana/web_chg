@@ -136,6 +136,11 @@ h4 small, h5 small, h6 small {
 	color: #121212;
 }
 
+
+borde-menu{
+    border: 1px solid #086d43;
+    
+}
 /*---- Preloader ----*/
 .preloader {
     position: absolute;
