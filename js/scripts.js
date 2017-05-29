@@ -193,7 +193,6 @@
         //address:"93 Worth St, New York, NY",
         address:"8.3615839 , -62.6659414",
         //8.3614786 , -62.665897400000006
-		key:"AIzaSyBrNxl0Vc-nG8z1hEHhpFdoLl9lERxtuWw",	
         options:{ icon: "img/assets/marker.png"}},
         map:{
         options:{
